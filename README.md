@@ -1,2 +1,10 @@
 # illegible_python_collection
-python mini programs with different usage, of course  there are more python codes in my repositories. but here, you can find simple and useful practices in multiple categories, it will grow through the time. if you see some issue. I will glad to fix it and help you.
+DO YOU LOVE PYTHON ?!!
+
+LET ME SAY! I'M NOT IN LOVE WITH PYTHON.
+
+I'M INSANE OF PYTHON. SO I BUILT THIS COLLECTION FOR WHO IS "PYTHON CRAZY" LIKE ME. 
+
+LOTS OF TOOLS WRITEN WITH PYTHON. CATEGORIZED, LABELED, SEXY AND HOT AS FUCKKKKKKK.
+
+IF YOU ARE LIKE ME. JUST UPLOAD YOR PYTHON SCRIPTS HERE.
